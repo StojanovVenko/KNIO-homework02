@@ -1,0 +1,328 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH01ad.dir\doc.xml"  gs2:docOID="HASH01adf1fb16ad441d821c191c" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH01adf1fb16ad441d821c191c" gs2:mode="add">
+
+
+
+
+
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH01adf1fb16ad441d821c191c.1" gs2:mode="add">
+
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f4 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:66px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:13px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;2010 – 2015&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:92px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;Osculus Rift&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:107px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во 2010 година, Palmer Luckey дизајнирал прототип за она што подоцна станало Oculus Rift.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:121px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Овој прототип бил способен само за следење на ротации [4]. Потоа овој прототип бил купен од&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:135px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;страна на компанијата Facebook во износ од 3 милиони долари [5]. Osculus Rift всушност е&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:149px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;virtual reality headet, кој се става на главата и дополнително има уреди за рацете со што се следат&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:162px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;движењата на корисникот како што е прикажано на слика 3.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:199px; top:340px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слика 3. Корисник со Osculus Rift headset&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:391px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;Project Morpheus&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:406px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во 2014, компанијата Sony го најави проектот Morpheus, познат како ‘VR system for PlayStation&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:420px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;4’ (PSVR) [4]. Се користи headset и различни уреди кои се држат во раката, некои се како&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:434px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;контролер/рачка, други служат за селедење на движењата на корисникот итн. На слика 3 е&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:448px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;прикажан корисник како игра некоја игра, уредите во неговата рака служат за интеракција со&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:462px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;играта (пример во играта може во моментот да држи телефон во раката, кога ќе го сврти уредот&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:475px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;со раката, во играта би се свртел и телефонот)&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:222px; top:647px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слика 4. Корисник игра на PSVR&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:684px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;Google Cardboard&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:699px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Платформа развиена во 2014 година од страна на Google, именувана според нејзиниот изглед.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:713px;&quot;&gt;&lt;span class=&quot;p1f4&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Направена е од картон во кој се вметнува smartphone. За да работи се како што треба, потребно е&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div id=&quot;page2&quot;&gt;
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH01adf1fb16ad441d821c191c.2" gs2:mode="add">
+
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f1 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f14 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:57px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;паметниот телефон да поддржува ВР апликации [8]. На слика 5 прикажана е кутијата во која се&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:71px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;вметнува паметен телефон кој поддржува ВР апликации. Корисникот држејќи ја во раце оваа&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:84px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;кутија, ја поставува на очите, па така на тој начин го искусува виртуелниот свет.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:238px; top:252px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слика 5. Google Cardboard&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:303px;&quot;&gt;&lt;span class=&quot;p2f14&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;FOVE&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:318px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;FOVE претставува првиот headset за виртуелна реалност кој во себе вклучува сензори за&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:331px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;следење на движењето на очите. Постои од 2014 година и овозможува на корисниците да имаат&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:345px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;интеракција со објектите преку движењето на очите [9]. На слика 6 е прикажан корисник како&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:359px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;игра некаква си игра во која што имаме поглед дека летаме и леталото се движи во насока во&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:373px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;која ги движиме очите. Ако гледаме право, леталото оди право. Ако се свртиме на лево, и&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:387px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;леталото ќе скршне на лево итн.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:181px; top:558px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слика 6. Корисник манипулира со играта преку&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:254px; top:572px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;движењата со очите&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+
+</Doc>

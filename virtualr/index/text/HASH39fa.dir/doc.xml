@@ -1,0 +1,340 @@
+<Doc xmlns:gs2="http://www.greenstone.org/gs2" file="HASH39fa.dir\doc.xml"  gs2:docOID="HASH39fa8c9af604be2260a53f" gs2:mode="add">
+
+<Sec  gs2:docOID="HASH39fa8c9af604be2260a53f" gs2:mode="add">
+
+
+
+
+
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH39fa8c9af604be2260a53f.1" gs2:mode="add">
+
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f3 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f59 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f60 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f61 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f62 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f63 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f64 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f65 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f66 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f67 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f68 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f69 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f70 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f71 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f72 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f73 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f74 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f75 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f76 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f77 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p1f78 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:66px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:13px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;2015 – 2020&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:83px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во 2016 стотици компании почнале да развиваат ВР продукти. Повеќето од headset-овите биле&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:96px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;со динамично ‘binaural audio’ [1].&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:134px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;HTC Vive&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:149px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во 2015, компаниите Valve и HTC го воведоа новиот Vive headset со контролери и базни&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:162px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;станици, кој користи „room scale“ технологија и ги следи движењата преку инфраред светлина&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:176px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;[3]. Со оваа технологија на корисникот му се овозможува да се движи низ 3Д простор, држејќи&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:190px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;во раката контролери преку кои комуницира со околината [10]. На слика 7 е прикажан корисник&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:204px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;со HTC Vive headset и некои рачни контролери на HTC Vive со цел да има интеракција со&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:218px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;околината.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:206px; top:390px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слика 7. корисник со HTC Vive опрема&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:427px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;HTC Vive Stream VR headset&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:442px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во 2016, HTC го објави сопствениот HTC Vive StreamVR headset кој важи за првиот&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:456px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;комерцијален headset со sensor-based tracking кој им овозможува на корисниците да се движат&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:470px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слободно во просторот [3]. Разликата од обичниот HTC Vive е тоа што овој headset има&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:484px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;динамичко ‘binural audio’. На слика 8 е прикажан како изгледа целата опрема на HTC Vive&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:498px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;StreamVR headset-от. Уредот во средината служи како наочари, долните два уреди се рачни&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:511px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;контролери и служат за интеракција со околината, додека пак, горните два уреди служат како&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:525px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;базни станици.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:191px; top:692px;&quot;&gt;&lt;span class=&quot;p1f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слика 8. HTC Vive StreamVR headset опрема&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div id=&quot;page2&quot;&gt;
+
+ 
+</Sec>
+
+<Sec  gs2:docOID="HASH39fa8c9af604be2260a53f.2" gs2:mode="add">
+
+
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+
+.txt { white-space:nowrap; }
+
+.p2f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f1 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+
+.p2f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f3 { font-family:serif; font-weight:normal; font-style:normal; }
+
+.p2f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+.p2f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+
+&lt;/style&gt;
+
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background2&quot; src=&quot;_httpdocimg_/page2.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:56px;&quot;&gt;&lt;span class=&quot;p2f1&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(78,128,188,1);&quot;&gt;Osculus Go&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:71px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;Во 2018 година излезе новиот Oculus Go, првиот комерцијално достапен безжичен VR headset со&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:85px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;вграден екран, така што, нема потреба од компјутер или телефон за да работи [2]. Тој има&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:99px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;дополнителен рачен контролер со кој се управува. Пример со контролерот може да се избире&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:113px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;игра, да се симне игра, исто така можеме и преку телефонот да симнеме игра итн. На слика 9 е&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:127px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;прикажан корисник како управува со Oculus Go. На главата има поставено уред, а во раката го&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:140px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;држи рачениот контролер.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:186px; top:313px;&quot;&gt;&lt;span class=&quot;p2f3&quot; style=&quot;font-size:12px;vertical-align:baseline;color:rgba(0,0,0,1);&quot;&gt;слика 9. Корисник како управува со Oculus Go&lt;/span&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+
+ 
+</Sec>
+
+
+</Doc>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Virtuelna realnost - istorija 2010 - 2015 v1\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">22.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - istorija 2010 - 2015\.odt</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">22.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - istorija 2015 - 2020 v2\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">22.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - istorija 2015 - 2020\.odt</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">22.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - istorija 2020 - denes\.odt</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">23.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - istorija 2020 - denes\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">23.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - voved i istorija do 2010 mk encoding\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">23.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - voved i istorija do 2010\.docx</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">23.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>%26#x412;%26#x438;%26#x440;%26#x442;%26#x443;%26#x435;%26#x43B;%26#x43D;%26#x430; %26#x440;%26#x435;%26#x430;%26#x43B;%26#x43D;%26#x43E;%26#x441;%26#x442; - %26#x432;%26#x43E;%26#x432;%26#x435;%26#x434; mk encoding v2\.pdf</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">24.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	
+	<FileSet>
+		<FileName>%26#x412;%26#x438;%26#x440;%26#x442;%26#x443;%26#x435;%26#x43B;%26#x43D;%26#x430; %26#x440;%26#x435;%26#x430;%26#x43B;%26#x43D;%26#x43E;%26#x441;%26#x442; - %26#x432;%26#x43E;%26#x432;%26#x435;%26#x434;\.odt</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">24.04.2021</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Virtuelna realnost - zakluchok\.odt</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Date">24.04.2021</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>
