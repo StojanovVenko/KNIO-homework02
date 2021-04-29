@@ -7,16 +7,15 @@
 	</metadataList>
 	<displayItemList>
 		<displayItem assigned="true" lang="en" name="name">Virtual Reality Collection</displayItem>
-		<displayItem assigned="true" lang="en" name="text">text</displayItem>
 		<displayItem assigned="true" lang="en" name="dc.Title,ex.dc.Title,Title">titles</displayItem>
 		<displayItem assigned="true" lang="en" name="Source">filenames</displayItem>
+		<displayItem assigned="true" lang="en" name="text">text</displayItem>
 		<displayItem assigned="true" lang="en" name="document:text">text</displayItem>
 		<displayItem assigned="true" lang="en" name="document:ex.Title">Title</displayItem>
 		<displayItem assigned="true" lang="en" name="document:ex.Source">Source</displayItem>
 		<displayItem assigned="true" lang="en" name="document">document</displayItem>
 		<displayItem assigned="true" lang="en" name="section">section</displayItem>
 		<displayItem assigned="true" lang="en" name="shortDescription">virtualr</displayItem>
-		<displayItem assigned="true" lang="en" name="description">Virtual reality (VR) refers to a computer-generated simulation in which a person can interact within an artificial three-dimensional environment using electronic devices, such as special goggles with a screen or gloves fitted with sensors.</displayItem>
 		<displayItem assigned="true" lang="en" name=".dc.Date">_labelDate_</displayItem>
 	</displayItemList>
 	<format>
@@ -58,16 +57,16 @@ modify the collection description template to output the "this collection contai
 			<displayItem lang="en" name="name">section</displayItem>
 		</level>
 		<defaultLevel name="document"/>
-		<index name="text">
-			<displayItem lang="en" name="name">text</displayItem>
-		</index>
+		<index name="dc.Date"/>
 		<index name="dc.Title,ex.dc.Title,Title">
 			<displayItem lang="en" name="name">titles</displayItem>
 		</index>
 		<index name="Source">
 			<displayItem lang="en" name="name">filenames</displayItem>
 		</index>
-		<index name="dc.Date"/>
+		<index name="text">
+			<displayItem lang="en" name="name">text</displayItem>
+		</index>
 		<defaultIndex name="text"/>
 		<sort name="rank">
 			<displayItem lang="en" name="name">rank</displayItem>
@@ -135,9 +134,6 @@ modify the collection description template to output the "this collection contai
 			<option name="-metadata" value="Source"/>
 			<option name="-partition_type_within_level" value="approximate_size"/>
 			<option name="-numeric_partition_type_within_level" value="approximate_size"/>
-		</classifier>
-		<classifier name="List">
-			<option name="-metadata" value="dc.Date"/>
 		</classifier>
 		<format>
 			<gsf:template match="documentNode">

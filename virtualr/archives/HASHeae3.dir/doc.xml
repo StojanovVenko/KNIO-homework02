@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Language">en</Metadata>
+    <Metadata name="Encoding">utf8</Metadata>
+    <Metadata name="URL">http://C:/Program Files/Greenstone3/web/sites/localsite/collect/virtualr/tmp/1619647767/Virtuelna realnost - Voved encoding v2.html</Metadata>
+    <Metadata name="UTF8URL">http://C:/Program Files/Greenstone3/web/sites/localsite/collect/virtualr/tmp/1619647767/Virtuelna realnost - Voved encoding v2.html</Metadata>
+    <Metadata name="Title">Virtuelna realnost - Voved encoding v2</Metadata>
+    <Metadata name="gsdlsourcefilename">import\Virtuelna realnost - Voved encoding v2.pdf</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdlconvertedfilename">tmp\1619647767\Virtuelna realnost - Voved encoding v2.html</Metadata>
+    <Metadata name="OrigSource">Virtuelna realnost - Voved encoding v2.html</Metadata>
+    <Metadata name="Source">Virtuelna realnost - Voved encoding v2.pdf</Metadata>
+    <Metadata name="SourceFile">Virtuelna realnost - Voved encoding v2.pdf</Metadata>
+    <Metadata name="Plugin">PDFv2Plugin</Metadata>
+    <Metadata name="FileSize">18949</Metadata>
+    <Metadata name="FilenameRoot">Virtuelna realnost - Voved encoding v2</Metadata>
+    <Metadata name="FileFormat">PDF</Metadata>
+    <Metadata name="srcicon">_iconpdf_</Metadata>
+    <Metadata name="srclink_file">doc.pdf</Metadata>
+    <Metadata name="srclinkFile">doc.pdf</Metadata>
+    <Metadata name="Identifier">HASHeae39f4b17b3d646282979</Metadata>
+    <Metadata name="lastmodified">1619119426</Metadata>
+    <Metadata name="lastmodifieddate">20210422</Metadata>
+    <Metadata name="oailastmodified">1619647767</Metadata>
+    <Metadata name="oailastmodifieddate">20210429</Metadata>
+    <Metadata name="assocfilepath">HASHeae3.dir</Metadata>
+    <Metadata name="gsdlassocfile">page1.png:image/png:</Metadata>
+    <Metadata name="gsdlassocfile">doc.pdf:application/pdf:</Metadata>
+  </Description>
+  <Content>
+
+
+
+&lt;div id=&quot;page1&quot;&gt;
+</Content>
+<Section>
+  <Description>
+    <Metadata name="Title">Page 1</Metadata>
+  </Description>
+  <Content>
+&lt;div style=&quot;position: relative; height: 792px; width: 612px;&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;
+.txt { white-space:nowrap; }
+.p1f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f3 { font-family:serif; font-weight:normal; font-style:normal; }
+.p1f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f46 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f47 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f48 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f49 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f50 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f51 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f52 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f53 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f54 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f55 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f56 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f57 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+.p1f58 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+&lt;/style&gt;
+&lt;img class=&quot;background&quot; height=&quot;792&quot; id=&quot;background1&quot; src=&quot;_httpdocimg_/page1.png&quot; style=&quot;position:absolute; left:0px; top:0px;&quot; width=&quot;612&quot;&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:60px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;Виртуелна реалност (ВР) е технологија која им овозможува на корисниците да имаат интеракција со компјутерски&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:70px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;симулирана околина, без разлика дали е реална или замислена. Најчесто се работи за визуелна симулација, прикажана на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:80px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;компјутерскиот екран или со помош на специјални &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(185,0,0,1);&quot;&gt;стереоскопски екрани, &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;но некои симулации вклучуваат и додатни сетилни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:90px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;информации, како на пример генериран глас преку звучници или слушалки. Некои напредни системи во денешно време&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:99px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;поседуваат можност и за механички информации, познати како Корисниците може да имаат интеракција со виртуелната&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:109px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;средина преку стандардните влезни уреди (тастатура, глушец) или преку мултимодални уреди. Симулираните средини можат&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:119px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;да бидат многу слични со реалниот свет, пример, симулација на пилотирање со авион. Но можат да бидат и многу драстично&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:128px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;различни од реалниот свет, како што тоа е во ВР игрите. Во пракса, многу е тешко да се создава добра виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:138px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;со оглед на техничките ограничувања, моќта на обработувачите, резолуцијата на сликите и брзината на комуникациските&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:151px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;врски. Но во иднина овие ограничувања секако дека ќе се надминат.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:165px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;Виртуелна реалност (ВР) е технологија која им овозможува на корисниците да имаат интеракција со компјутерски&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:175px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;симулирана околина, без разлика дали е реална или замислена. Најчесто се работи за визуелна симулација, прикажана на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:185px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;компјутерскиот екран или со помош на специјални &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(185,0,0,1);&quot;&gt;стереоскопски екрани, &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;но некои симулации вклучуваат и додатни сетилни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:195px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;информации, како на пример генериран глас преку звучници или слушалки. Некои напредни системи во денешно време&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:205px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;поседуваат можност и за механички информации, познати како Корисниците може да имаат интеракција со виртуелната&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:214px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;средина преку стандардните влезни уреди (тастатура, глушец) или преку мултимодални уреди. Симулираните средини можат&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:224px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;да бидат многу слични со реалниот свет, пример, симулација на пилотирање со авион. Но можат да бидат и многу драстично&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:234px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;различни од реалниот свет, како што тоа е во ВР игрите. Во пракса, многу е тешко да се создава добра виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:243px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;со оглед на техничките ограничувања, моќта на обработувачите, резолуцијата на сликите и брзината на комуникациските&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:256px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;врски. Но во иднина овие ограничувања секако дека ќе се надминат.&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:270px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;Виртуелна реалност (ВР) е технологија која им овозможува на корисниците да имаат интеракција со компјутерски&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:281px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;симулирана околина, без разлика дали е реална или замислена. Најчесто се работи за визуелна симулација, прикажана на&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:290px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;компјутерскиот екран или со помош на специјални &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(185,0,0,1);&quot;&gt;стереоскопски екрани, &lt;/span&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;но некои симулации вклучуваат и додатни сетилни&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:300px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;информации, како на пример генериран глас преку звучници или слушалки. Некои напредни системи во денешно време&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:310px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;поседуваат можност и за механички информации, познати како Корисниците може да имаат интеракција со виртуелната&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:319px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;средина преку стандардните влезни уреди (тастатура, глушец) или преку мултимодални уреди. Симулираните средини можат&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:329px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;да бидат многу слични со реалниот свет, пример, симулација на пилотирање со авион. Но можат да бидат и многу драстично&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:339px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;различни од реалниот свет, како што тоа е во ВР игрите. Во пракса, многу е тешко да се создава добра виртуелна реалност&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:349px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;со оглед на техничките ограничувања, моќта на обработувачите, резолуцијата на сликите и брзината на комуникациските&lt;/span&gt;&lt;/div&gt;
+&lt;div class=&quot;txt&quot; style=&quot;position:absolute; left:56px; top:362px;&quot;&gt;&lt;span class=&quot;p1f1&quot; style=&quot;font-size:8px;vertical-align:baseline;color:rgba(31,32,33,1);&quot;&gt;врски. Но во иднина овие ограничувања секако дека ќе се надминат.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</Content>
+</Section>
+</Section>
+</Archive>
